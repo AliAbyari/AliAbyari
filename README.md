@@ -1,1 +1,3 @@
-![snake gif](https://github.com/AliAbyari/GitSnake/blob/output/github-snake-dark.svg)
+# 🐍 GitHub Snake Contribution Graph
+
+![snake gif](https://raw.githubusercontent.com/AliAbyari/GitSnake/output/github-snake-dark.svg)
