@@ -11,10 +11,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AliAbyari/AliAbyari/main/1.png" alt="profile banner" width="100%"/>
-</p>
-
 # Hi there 👋
 
 I'm currently working on cool .NET and microservice projects.
@@ -23,8 +19,11 @@ I'm currently working on cool .NET and microservice projects.
 
 ![snake gif](https://raw.githubusercontent.com/AliAbyari/AliAbyari/output/github-snake-dark.svg)
 
-
+<div align="center">
+  
 ## 💻 Tech Stack ⚡
+
+</div>
 
 <div align="center">
 
