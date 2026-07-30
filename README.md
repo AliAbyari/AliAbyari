@@ -50,20 +50,15 @@
 
 <br/>
 
-<!-- ===== GITHUB STATS ===== -->
-<h3 align="center">📊 GitHub Stats</h3>
-
+<!-- ===== GITHUB METRICS (cached, always loads) ===== -->
+<h3 align="center">📊 GitHub Metrics</h3>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AliAbyari&theme=aura&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAbyari&theme=aura&hide_border=true&layout=compact&langs_count=8" alt="Top Langs"/>
+  <img src="https://raw.githubusercontent.com/AliAbyari/AliAbyari/main/metrics.svg" alt="Metrics"/>
 </p>
 
+<!-- ===== STREAK STATS ===== -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AliAbyari&theme=aura&hide_border=true" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AliAbyari&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
 </p>
 
 <br/>
