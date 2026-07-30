@@ -9,7 +9,7 @@
 <br/>
 
 <!-- ===== ABOUT ===== -->
-<h3 align="center">🚀 About Me</h3>
+<h3 align="center"> About Me</h3>
 
 <p align="center">
   🔭 Currently working on cool <b>.NET</b> and <b>microservice</b> projects <br/>
