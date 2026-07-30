@@ -15,7 +15,6 @@
   🔭 Currently working on cool <b>.NET</b> and <b>microservice</b> projects <br/>
   🌱 Deep into <b>Clean Architecture</b>, <b>DDD</b> and <b>Distributed Systems</b> <br/>
   💬 Ask me about <b>C#</b>, <b>ASP.NET Core</b>, <b>SQL Server</b> and <b>Docker</b> <br/>
-  ⚡ Fun fact: I turn coffee into scalable backends ☕
 </p>
 
 <br/>
