@@ -55,12 +55,7 @@
   <img src="https://raw.githubusercontent.com/AliAbyari/AliAbyari/main/metrics.svg" alt="Metrics"/>
 </p>
 
-<!-- ===== STREAK STATS ===== -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AliAbyari&theme=aura&hide_border=true" alt="Streak Stats"/>
-</p>
 
-<br/>
 
 <!-- ===== SNAKE ===== -->
 <h3 align="center">🐍 Contribution Snake</h3>
@@ -81,7 +76,13 @@
   <a href="https://www.linkedin.com/in/aliabyari" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ali%20Abyari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
+  <a href="https://t.me/ALIABYARI" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%40ALIABYARI-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 </p>
+
+<br/>
 
 <br/>
 <!-- ===== FOOTER ===== -->
