@@ -70,6 +70,20 @@
 
 <br/>
 
+<!-- ===== CONTACT ===== -->
+<h3 align="center">📫 Contact Me</h3>
+
+<p align="center">
+  <a href="mailto:Ali.abyarii1380@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Ali.abyarii1380%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/aliabyari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ali%20Abyari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<br/>
 <!-- ===== FOOTER ===== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AliAbyari&style=for-the-badge&color=512BD4&label=Profile+Views" alt="Profile views"/>
